@@ -16,7 +16,7 @@ A lightweight and customizable virtualized list implementation in TypeScript des
 Currently, this library is not available on NPM. To use it, clone this repository and include the VirtualizedList.ts file in your project.
 
 # Clone the repository
-git clone https://github.com/your-repo/virtualized-list.git
+git clone https://github.com/nspereira/virtualized-list.git
 
 # Usage
 
