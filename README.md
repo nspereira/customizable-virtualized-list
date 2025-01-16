@@ -21,7 +21,7 @@ git clone https://github.com/nspereira/virtualized-list.git
 # Usage
 
 Vanilla JavaScript Example
-´´´Javascript
+´´´javascript
 <div id="list-container"></div>
 <script type="module">
   import VirtualizedList from "./VirtualizedList.js";
@@ -55,7 +55,7 @@ Vanilla JavaScript Example
 </script>
 ´´´
 React Example
-´´´Javascript
+´´´javascript
 import React, { useEffect, useRef } from "react";
 import ReactDOM from "react-dom";
 import VirtualizedList from "./VirtualizedList";
