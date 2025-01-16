@@ -4,12 +4,12 @@ A lightweight and customizable virtualized list implementation in TypeScript des
 
 # Features
 
--Virtualization: Renders only visible items, keeping the DOM lightweight.
--Dynamic Heights: Supports items with variable heights via a custom height calculation function.
--Custom Item Rendering: Provides flexibility to render each item with custom HTML or components.
--Theming and Styles: Easily apply custom CSS classes and inline styles to the container.
--Compatibility: Works with vanilla JavaScript, React, and Angular via wrapper integrations.
--Scalability: Designed to handle very large datasets efficiently.
+* Virtualization: Renders only visible items, keeping the DOM lightweight.
+* Dynamic Heights: Supports items with variable heights via a custom height calculation function.
+* Custom Item Rendering: Provides flexibility to render each item with custom HTML or components.
+* Theming and Styles: Easily apply custom CSS classes and inline styles to the container.
+* Compatibility: Works with vanilla JavaScript, React, and Angular via wrapper integrations.
+* Scalability: Designed to handle very large datasets efficiently.
 
 # Installation
 
